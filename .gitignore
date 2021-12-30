@@ -4,3 +4,8 @@
 *.bmp
 *.jpeg
 /.ipynb_checkpoints/
+*.gz
+coursera/introduction-computer-vision-watson-opencv/data/**
+**/.ipynb_checkpoints/**
+*.pt
+*.1
