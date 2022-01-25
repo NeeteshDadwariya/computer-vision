@@ -3,9 +3,12 @@
 *.png
 *.bmp
 *.jpeg
+*.jpg
 /.ipynb_checkpoints/
 *.gz
-coursera/introduction-computer-vision-watson-opencv/data/**
+data/**
 **/.ipynb_checkpoints/**
 *.pt
 *.1
+udacity/.DS_Store
+.DS_Store
