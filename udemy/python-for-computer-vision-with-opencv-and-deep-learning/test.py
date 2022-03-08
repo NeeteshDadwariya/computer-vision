@@ -1,10 +1,5 @@
-def func(i):
-    if i%2:
-        return 0
-    else:
-        return 1
+import numpy as np
+a = np.asarray([4,2])
+b = np.asarray([-4,2])
 
-i = 3
-i = func(i)
-i = func(i)
-print(i)
+print(np.dot(a,b))
